@@ -1,13 +1,17 @@
 ---
 tags: hardskill,devops,container,datascience
+banner_image: media/0_nlH1B06zKjrzttbX.webp
 ---
+
 # 🐳Fazendo ciência de dados com docker
 
-![Creditos: https://towardsdatascience.com/docker-jupyter-for-machine-learning-in-1-minute-30e1df969d09](media/0_nlH1B06zKjrzttbX.webp)
-
-Supondo que você já tenha [docker instalado e devidamente configurado seja Windows/Linux/Mac](https://docs.docker.com/get-docker/). Temos uma [ documentação sobre as imagens do Jupyter](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html) se quiser uma outra configuração vamos usar a `jupyter/datascience-notebook` mas temos diversas outras.
+Supondo que você já
+tenha [docker instalado e devidamente configurado seja Windows/Linux/Mac](https://docs.docker.com/get-docker/). Temos
+uma [ documentação sobre as imagens do Jupyter](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
+se quiser uma outra configuração vamos usar a `jupyter/datascience-notebook` mas temos diversas outras.
 
 Usando o `docker run`:
+
 ```shell
 docker run --rm -p 10000:8888 -e JUPYTER_ENABLE_LAB=yes -v .\my-notebook:/home/jovyan/work jupyter/datascience-notebook
 ```
@@ -30,3 +34,6 @@ Escrever `!python — version`
 
 Vamos notar que o nosso arquivo Untitled.ipynb do jupyter foi para nosso host.
 ![Vamos notar que o nosso arquivo Untitled.ipynb do jupyter foi para nosso host.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/szlhedvngezcqiu6hb7h.png)
+
+Creditos:
+- https://towardsdatascience.com/docker-jupyter-for-machine-learning-in-1-minute-30e1df969d09

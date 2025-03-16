@@ -1,10 +1,9 @@
 ---
 tags: hardskill,refactoring,debugging,csharp
+banner_image: media/0_wr8QgcbdgwimWpid.webp
 ---
 
 # 💡Depuração e refatoração de código C# para manutenção
-
-![💡Debugging and Refactoring C# Code for Maintainability](media/0_wr8QgcbdgwimWpid.webp)
 
 ## Índice
 

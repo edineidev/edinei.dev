@@ -1,10 +1,10 @@
 ##### Comments
 
 <script src="https://giscus.app/client.js"
-        data-repo="edineidev/blog"
-        data-repo-id="R_kgDON_Zfbg"
+        data-repo="edineidev/edinei.dev"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkxNjY4MTUyOA=="
         data-category="Comments"
-        data-category-id="DIC_kwDON_Zfbs4CnVRi"
+        data-category-id="DIC_kwDOAP6KOM4CoJaK"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"

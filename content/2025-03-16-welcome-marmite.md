@@ -1,6 +1,6 @@
 ---
 tags: welcome, blog, marmite
-banner_image: media/marmite.png
+banner_image: media/2025-03-16-banner-marmite.png
 ---
 
 # 🦀 Welcome Marmite

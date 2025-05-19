@@ -1,6 +1,6 @@
 ---
 tags: hardskill,devops,container,datascience
-banner_image: media/0_nlH1B06zKjrzttbX.webp
+banner_image: media/2020-03-01-banner-docker-ciencia-de-dados.webp
 ---
 
 # 🐳Fazendo ciência de dados com docker

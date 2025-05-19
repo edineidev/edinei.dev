@@ -62,16 +62,16 @@ você está no método `Foo()` e quer debugar Bar(string context), veja
 o [linguagem intermediária (IL)](https://en.wikipedia.org/wiki/Common_Intermediate_Language) do C# nas duas versões:
 
 - IL antes da refatoração
-  ![IL antes da refatoração](media/1_QeKxszvgZDWFQa86V15ppA.webp)
+  ![IL antes da refatoração](media/2020-02-04-il-antes-refatoracao.webp)
 - IL depois da refatoração
-  ![IL depois da refatoração](media/1_BM0xCQEypUs97sT72DNghA.webp)
+  ![IL depois da refatoração](media/2020-02-04-il-depois-refatoracao.webp)
 
 ## Os return-values <a name="return-values"></a>
 
 Também temos os **return-values** no Visual Studio Code, Visual Studio e na maioria das IDEs como contrapontos dessa
 argumentação.
 
-![Visual Stuido Code return-values](media/1_qf2OhNU5yobMwp2QYbwoWw.webp)
+![Visual Stuido Code return-values](media/2020-02-04-vscode-return-values.webp)
 
 ## Conclusão <a name="conclusao"></a>
 

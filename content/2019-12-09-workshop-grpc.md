@@ -1,9 +1,9 @@
 ---
-tags: talk,hardskill,grpc,microservices
+tags: palestra,hardskill,microservices
 banner_image: media/1_pY4UKCjDWajf8mikfxM8BQ.webp
 ---
 
-# ⚙️gRPC and Microservices: A Workshop Overview
+# ⚙️ gRPC and Microservices: A Workshop Overview
 
 Grpc é um farmwork para comunição muito comum em microsserviços utilizado por empresas como Dropbox, Netflix, Cisco,
 Spotify, Docker, Google entre outras… venho por meio desses mostrar os slides do workshop apresentado dia 06/11/2019 na

@@ -7,7 +7,7 @@ banner_image: media/2025-07-01-days.gif
 
 ## Quanto mais estudamos, mas sabemos que precisamos estudar?
 ![Wakatime](media/2025-07-01-wakatime.webp)
-## Amadurecimento vem com o tempo ou com exeriencias diferentes?
+## Amadurecimento vem com o tempo ou com experiencias diferentes?
 ## Sonhar, sonhar e sonhar?
 ## Querer e poder?
 ## Conectar, conexao conectado

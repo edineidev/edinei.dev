@@ -17,5 +17,5 @@ O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes 
 ## Querer e poder?
 ## Conectar, conexão conectado
 ![Linkedin SSI](media/2025-07-01-ssi.webp)
-## ..futuro e o presente e o presente ja passou...
+## ..futuro e o presente e o presente já passou...
 ![Roda do tempo!!!](media/2025-07-01-days.gif)

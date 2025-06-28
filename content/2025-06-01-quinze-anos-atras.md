@@ -17,5 +17,5 @@ O esudo e uma mina a ser exporada pelos mais curiosos seres, somos pensantes e p
 ## Querer e poder?
 ## Conectar, conexao conectado
 ![Linkedin SSI](media/2025-07-01-ssi.webp)
-## ..futuro e o pesente e o presente ja passou...
+## ..futuro e o presente e o presente ja passou...
 ![Roda do tempo!!!](media/2025-07-01-days.gif)

@@ -1,6 +1,6 @@
 ---
 tags: palestra,hardskill,microservices
-banner_image: media/2025-07-01-days.gif
+banner_image: media/2025-06-01-days.gif
 ---
 
 # 🔮"Se eu pudesse falar com meu 'eu' de 15 anos atrás… o que eu diria?"

@@ -1,4 +1,4 @@
 # edinei.dev
 
-## Graditao 🙏🏽
+## Gratidão 🙏🏽
  -  https://github.com/rochacbruno/marmite

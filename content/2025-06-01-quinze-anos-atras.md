@@ -12,7 +12,7 @@ O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes 
 ![Wakatime](media/2025-07-01-wakatime.webp)
 ![GitHub](media/2025-06-01-github.jpg)
 
-## Amadurecimento vem com o tempo ou com experiencias diferentes?
+## Amadurecimento vem com o tempo ou com experiências diferentes?
 ## Sonhar, sonhar e sonhar...
 ## Querer e poder?
 ## Conectar, conexao conectado

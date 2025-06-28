@@ -15,7 +15,7 @@ O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes 
 ## Amadurecimento vem com o tempo ou com experiências diferentes?
 ## Sonhar, sonhar e sonhar...
 ## Querer e poder?
-## Conectar, conexao conectado
+## Conectar, conexão conectado
 ![Linkedin SSI](media/2025-07-01-ssi.webp)
 ## ..futuro e o presente e o presente ja passou...
 ![Roda do tempo!!!](media/2025-07-01-days.gif)

@@ -8,7 +8,7 @@ banner_image: media/2025-07-01-days.gif
 Depois do post de o que [eu diria para meu 'eu' de 10 anos atras](https://edinei.dev/dez-anos-atras.html)... agora vamos mais meia decada, 15 anos atras para o 'eu'...
 
 ## Quanto mais estudamos, mas sabemos que precisamos estudar?
-O esudo e uma mina a ser exporada pelos mais curiosos seres, somos pensantes e pensadores, uso o wakatime desde 2017, nao esta totalmente atualizado mas represente esses 8 anos de registros nele, e meu github desde 2010 ou seja desde meu inicio como programdor.
+O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes e pensadores, uso o wakatime desde 2017, não está totalmente atualizado mas representa esses 8 anos de registros nele, e meu github desde 2010 ou seja desde meu início como programador.
 ![Wakatime](media/2025-07-01-wakatime.webp)
 ![Github](media/2025-06-01-github.jpg)
 

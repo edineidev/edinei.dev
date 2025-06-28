@@ -10,7 +10,7 @@ Depois do post de o que [eu diria para meu 'eu' de 10 anos atrás](https://edine
 ## Quanto mais estudamos, mas sabemos que precisamos estudar?
 O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes e pensadores, uso o wakatime desde 2017, não está totalmente atualizado mas representa esses 8 anos de registros nele, e meu github desde 2010 ou seja desde meu início como programador.
 ![Wakatime](media/2025-07-01-wakatime.webp)
-![Github](media/2025-06-01-github.jpg)
+![GitHub](media/2025-06-01-github.jpg)
 
 ## Amadurecimento vem com o tempo ou com experiencias diferentes?
 ## Sonhar, sonhar e sonhar...

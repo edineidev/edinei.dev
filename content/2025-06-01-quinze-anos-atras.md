@@ -1,5 +1,5 @@
 ---
-tags: palestra,hardskill,microservices
+tags: palestra, hardskill, microservices
 banner_image: media/2025-06-01-days.gif
 ---
 

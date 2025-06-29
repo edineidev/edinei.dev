@@ -1,5 +1,5 @@
 ---
-tags: palestra, hardskill, microservices
+tags: social, motivacional, carreira
 banner_image: media/2025-06-25-days.gif
 ---
 

@@ -25,7 +25,7 @@ O estudo é uma mina a ser explorada pelos mais curiosos seres, somos pensantes 
 
 ## Conectar, conexão conectado
 ![Linkedin SSI](media/2025-06-25-ssi.webp)
-Gratidao por ter essa linda rede na internet e pessoalmente tambem.
+Gratidão por ter essa linda rede na internet e pessoalmente também.
 
 ## ..futuro e o presente e o presente já passou...
 ![O segredo da paz interior é manter a conexão com a natureza. Esquece a mente, ela mente. Se der esse passo e deixar esse espaço, Será iluminado. Por Alexander Supertramp](media/2025-06-25-alexande-supertramp.webp)

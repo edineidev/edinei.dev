@@ -1,6 +1,6 @@
 name: edinei.dev blog
 tagline: Wellcome to my world 🌎 Edinei Cavalcanti
-url: https://edinei.dev/blog
+url: https://edinei.dev
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
@@ -10,5 +10,5 @@ menu:
 footer: <div>⚙Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <small><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY_NC-SA</a></small> | Make with 💚</div>
 language: 'pt-br'
 banner_image: './media/cover.jpg'
-logo_image: './favicon.ico'
+logo_image: './media/favicon.ico'
 json_feed: true

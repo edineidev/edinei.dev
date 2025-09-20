@@ -2,7 +2,7 @@
 tags: archlinux, aur
 ---
 
-# Publicando seu primeiro pacote no AUR: Parte 1
+# 🚀Publicando seu primeiro pacote no AUR: Parte 1
 O AUR (Arch User Repository) é um repositório comunitário do Arch Linux que contém PKGBUILDs — scripts que permitem compilar e instalar pacotes que não estão nos repositórios oficiais, criado e mantido pela comunidade Arch.
 A instalação não é automática pelo pacman; normalmente se usa um **AUR helper** como `yay`, `paru`, etc...
 

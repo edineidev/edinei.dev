@@ -1,8 +1,7 @@
 ---
-tags: [hardskill,tests,tdd]
-stream: draft
+tags: [hardskill,tests]
 ---
-# Além de escrever testes automatizados de software
+# 🧪A Essência dos Testes: Qualidade e Valor no Software
 ## Por que fazer testes?
 
 Você compraria um carro sem ter sido feito testes nele?
@@ -12,6 +11,10 @@ Pensando a médio e longo prazo, testes não são opcionais, mas sim obrigatóri
 Nos testes de carro não usamos pessoas reais, mas sim dummies (manequins), assim como nos de software, que usamos mock ou stub.
 
 Testes bem feitos adicionam valor. Testes ruins são apenas custo.
+
+> O teste de programas pode ser usado para mostrar a presença de bugs, mas nunca para mostrar a sua ausência! - Edsger Dijkstra
+
+## Testes na vida real
 
 ![[https://quatrorodas.abril.com.br/noticias/fiat-mobi-ganha-uma-estrela-em-teste-de-impacto/](https://quatrorodas.abril.com.br/noticias/fiat-mobi-ganha-uma-estrela-em-teste-de-impacto/)](media/2026-03-14-tests1.png)
 
@@ -27,7 +30,7 @@ Aviões têm mais redundância de sensores do que precisariam.
 
 ![[https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software](https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software/)/](media/2026-03-14-tests3.png)
 
-[https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software](https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software/)/
+[https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software](https://www.eximiaco.tech/pt/2020/05/08/que-tipo-de-teste-escrever-para-reduzir-o-custo-total-de-um-projeto-de-software/)
 
 ## A adoção de testes automatizados de aceitação para melhorar o alinhamento do time técnico com o negócio
 
@@ -49,7 +52,7 @@ O argumento do autor é que nem todos os testes são iguais, por isso devemos qu
 
 [https://www.eximiaco.tech/pt/2019/08/02/growing-object-oriented-software-guided-by-tests/](https://www.eximiaco.tech/pt/2019/08/02/growing-object-oriented-software-guided-by-tests/)
 
-## TDD 2.0?
+## TDD 2.0
 
 ![[https://sttp.site/chapters/getting-started/developer-testing-workflow.html](https://sttp.site/chapters/getting-started/developer-testing-workflow.html)](media/2026-03-14-tests7.png)
 
@@ -71,4 +74,4 @@ O Teste Baseado em Propriedade trata de generalizar a entrada para podermos faze
 
 ## Continua... 
 
-🤔 Artigo idealizado em 8 de fevereiro de 2021 e so agora publicado agora 🙏.
+🤔 Artigo idealizado em 8 de fevereiro de 2021 e so publicado agora 🙏.

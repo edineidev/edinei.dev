@@ -1,5 +1,5 @@
 ---
-tags: retrospectiva, social, motivacional, carreira
+tags: softskill, hardskill, retrospectiva
 banner_image: media/2025-06-25-days.gif
 ---
 
